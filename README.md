@@ -12,7 +12,7 @@ Here is a quick test run of the program:
 
 Use Cases:
 
- - Learning how to use overloaded methods, 
+ - Learning how to use overloaded methods, and reiterate string concatenation
 
 Problems:
 
